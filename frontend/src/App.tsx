@@ -8,6 +8,7 @@ import Form from 'pages/Form';
 import Navbar from "components/Navbar";
 
 function App() {
+  
   return (
     <BrowserRouter>
       <Navbar />
