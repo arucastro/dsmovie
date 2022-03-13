@@ -40,7 +40,7 @@ function FormCard({movieId} : Props) {
             url: '/scores',
             data: {
                 email: email,
-                movieId: movieId,
+                movieid: movieId,
                 score: score
             }
         }
